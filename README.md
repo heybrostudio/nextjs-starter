@@ -7,10 +7,6 @@
 <p align="center">
   <samp><a href="https://nextjs.org/">Next.js</a> starter template.</samp>
 </p>
-<p align="center">
-  <img alt="Template Version" src="https://img.shields.io/npm/v/%40heybrostudio%2Fnextjs-starter?label=">
-  <img alt="License" src="https://img.shields.io/npm/l/%40heybrostudio%2Fnextjs-starter">
-</p>
 
 ## Let's get started!
 
